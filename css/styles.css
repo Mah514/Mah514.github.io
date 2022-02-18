@@ -48,7 +48,7 @@ img.map{
     height: 5vw;
   }
 
-  @import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora|Playfair+Display:700i,900');
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Sora:wght@200&display=swap');
 
 html,
 body {
@@ -68,14 +68,14 @@ a,
 }
 
 h1 {
-  font-family: "Playfair Display", serif;
+  font-family: 'Lora', serif;
   font-size: 48px;
   text-align: left;
   margin-bottom: 8px;
 }
 
 h2 {
-  font-family: "Lato", sans-serif;
+  font-family: "Sora", sans-serif;
   font-size: 26px;
   font-weight: 700;
   padding: 0;
