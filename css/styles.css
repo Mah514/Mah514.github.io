@@ -103,6 +103,10 @@ p, i, a {
   line-height: 1.58;
 }
 
+p {
+  padding-left: 5px;
+}
+
 a {
   text-decoration: underline;
 }
