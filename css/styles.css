@@ -351,3 +351,25 @@ code {
   margin-right: auto;
   width: 100%; 
 }
+
+#buttonCont {
+  display: flex;
+  justify-content: space-around;
+}
+
+#buttonCont button {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+  margin: 0px;
+  border-radius: 10px;
+}
+
+#buttonCont button a {
+  text-decoration: none;
+  color: white;
+  margin: 0px;
+}
