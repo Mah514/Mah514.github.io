@@ -76,13 +76,23 @@ h1 {
 
 h2 {
   font-family: "Sora", sans-serif;
-  font-size: 26px;
+  font-size: 175%;
   font-weight: 700;
   padding: 0;
   margin: 56px 0 -13px -1.883px;
   text-align: left;
   line-height: 34.5px;
   letter-spacing: -0.45px;
+}
+
+h3, h4
+{
+  font-family: "Sora", sans-serif;
+}
+
+h3
+{
+  font-size: 130%;
 }
 
 p, i, a {
